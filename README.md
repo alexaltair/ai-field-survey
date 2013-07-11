@@ -21,7 +21,7 @@ This may give us a much better idea of timelines, safety concerns, and how to in
 Gather the following data;
 List of AI methods & subfields
 List of AI researchers
-List of departments
+List of organizations
 List of projects
 List of journals
 Amounts of funding
